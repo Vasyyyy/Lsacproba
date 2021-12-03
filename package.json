@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "find-or-create": "^2.0.0",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.0.13",
+    "passport": "^0.5.0",
+    "passport-jwt": "^4.0.0",
+    "util": "^0.12.4"
+  }
+}
